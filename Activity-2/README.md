@@ -8,7 +8,7 @@ The python file, [activity-2.py](/Activity-2/activity-2.py), contains the code t
 
 ### The dataset
 #### MLB Statistics
-The dataset can be downloaded here [MLB dataset](http://www.seanlahman.com/baseball-archive/statistics/) OR [Viewed here](/Dataset/baseballdatabank-2019.2)
+The dataset can be downloaded here [MLB dataset](http://www.seanlahman.com/baseball-archive/statistics/) OR [viewed here](/Dataset/baseballdatabank-2019.2)
 
 ##### Brief summary of the dataset
 
