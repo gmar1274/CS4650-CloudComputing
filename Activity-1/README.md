@@ -1,5 +1,5 @@
 # Activity-1
-This task for this activity was to be familar with python basics.
+This task for this activity was to be familar with python basics and the numpy/pandas modules.
 
 ## Python code
 ```python
