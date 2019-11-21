@@ -102,4 +102,4 @@ for i, df in enumerate(data_frames):
 ```
 ### The output
 
-![Output](./activity-2.png)
+![Output](./output.txt)
