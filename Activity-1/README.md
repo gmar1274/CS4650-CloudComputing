@@ -2,7 +2,7 @@
 This task for this activity was to be familar with python basics.
 
 ## Python code
-'''python
+```python
 '''
 Gabriel Martinez
 CS 4650
@@ -29,7 +29,7 @@ def factorial(a):
 vfunc = np.vectorize(factorial)
 result = vfunc(arr2d[:,:]) 
 print("factorial of arr2d[:,:]: {}".format(result))
-'''
+```
 
 ## Output
-![Output code](Activity-1/activity-1.png)
+![Output code](./Activity-1/activity-1.png)
