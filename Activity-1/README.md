@@ -32,4 +32,4 @@ print("factorial of arr2d[:,:]: {}".format(result))
 ```
 
 ## Output
-![Output code](./Activity-1/activity-1.png)
+![Output code](./activity-1.png)
