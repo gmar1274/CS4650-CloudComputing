@@ -2,9 +2,25 @@
 ## CS 4650
 ### Actvity 2
 
+The task here was to analyze our [MLB dataset](/Dataset/baseballdatabank-2019.2):
+```python
+print("1) Reading dataset(s)...")
+print("2) Displaying the first 50 rows...")
+print("3) Displaying statistical summary...")
+print("4) Selecting a subset of rows...")
+print("5) Selecting a subset of columns...")
+print("6) Filtering out the empty data...")
+print("7) Displaying the rows with missing data...")
+print("9) Sorting data from (8) in descending order...")
+print("10) Grouping data from (9) by category... ")
+print("11) (Optinal) Plotting data in three ways: scatter,line, and bar: ...")
+```
+
 [Output.txt](/Activity-2/output.txt) will have the outputs as requested in activity 2. This file will show the step by step results.
 
 The python file, [activity-2.py](/Activity-2/activity-2.py), contains the code that produces the outputs for the [Output.txt](/Activity-2/output.txt) file.
+
+
 
 ### The dataset
 #### MLB Statistics
