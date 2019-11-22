@@ -1,6 +1,7 @@
 # Gabriel Martinez
 ## CS 4650
 ### Actvity 3
+This activity focuses on data visualization.
 #### Python code 
 Code can be viewed here [activity-3.py](/Activity-3/activity-3.py).
 ### The dataset: MLB Pittching
